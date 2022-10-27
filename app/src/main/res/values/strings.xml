@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMEJERCICIO1.1</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string name="titulo">OPERACIONES MATEMÁTICAS</string>
+</resources>
